@@ -10,6 +10,7 @@ public class Lab {
      * if bool is true, return x.
      * if bool is false, return y.
      * 
+     * 
      * All variables needed to solve the problem are provided by the method parameters - boolean bool, int x, int y.
      * This means that you can use the variables bool, x, and y freely, within the if statement, to solve the problem.
      *
